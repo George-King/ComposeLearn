@@ -1,1 +1,3 @@
 # ComposeLearn
+
+Individual learning
